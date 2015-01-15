@@ -1,0 +1,3 @@
+This program is a simple implementation of Conway's Game of Life . This version of Life implements the original rules and also includes a rule for handling a game with cells of different colour. When a new cell is born, it will take on the average colour of it's neighbours. The left/right and top/bottom edges of the grid wrap around on eachother, so the grid in this version is not infinite as it is in the original Game of Life.
+
+http://rlguy.com/gameoflife
